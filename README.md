@@ -14,5 +14,6 @@ Here is a decontextualized panel from a 13-page comic I drew in 2021. Want the c
 
 
 ## Portfolio
+Sample for Data visualization assignment 2: [Assignment 2- War in Ukraine who is poised for more debt issues?](/dataviz2.md)
 ### Visualizing With Clarity
 ### Final Project 
