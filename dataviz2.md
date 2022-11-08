@@ -5,3 +5,6 @@ This is general data with Russia, US and OECD countries neighboring Ukraine high
 ## A Visualization of GDP to Debt Ratio Trends for OECD Countries
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/11736508"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+## Looking for Debt to GDP Ratio Trends for Sending Military Aid to Ukraine
+<div class="flourish-embed flourish-chart" data-src="visualisation/11736798"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
