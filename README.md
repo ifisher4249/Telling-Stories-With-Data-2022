@@ -17,6 +17,7 @@ Here is a decontextualized panel from a 13-page comic I drew in 2021. Want the c
 Sample for Data visualization assignment 2: [Assignment 2 GDP to Debt Ratio Trends in the OECD](/dataviz2.md)
 
 ### Critique By Redesign
+[Critique by Redesign](/critiquebydesign.md)
 
 ### Visualizing With Clarity
 ### Final Project 
