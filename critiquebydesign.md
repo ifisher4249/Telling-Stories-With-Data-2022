@@ -12,3 +12,13 @@ This is a story of how to visualize event registration and attendance data The j
 
 ### The Revised Critique: 
 ![Design by Critique Mockup  Recovered](https://user-images.githubusercontent.com/92678363/201709278-26b8b960-a891-44ab-9de8-79a304ac127d.png)
+
+
+### Final Visualization A
+
+<div class="flourish-embed flourish-parliament" data-src="visualisation/11846099"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+### Final Visualization B 
+
+<div class="flourish-embed flourish-parliament" data-src="visualisation/11847613"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
