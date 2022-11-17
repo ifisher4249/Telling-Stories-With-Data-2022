@@ -1,6 +1,8 @@
 ## Full Writeup Here: 
-This is a story of how to visualize event registration and attendance data The journey is still in progress. Read the full story by downloading the following pdf: 
-[Walkthrough of Data Visualization11.14.pdf](https://github.com/ifisher4249/Telling-Stories-With-Data-2022/files/10004857/Walkthrough.of.Data.Visualization11.14.pdf)
+This is a story of how to visualize event registration and attendance data The journey is still in progress. Read the full story by downloading the following pdf:
+
+[Walkthrough of Data Visualization Final Draft.pdf](https://github.com/ifisher4249/Telling-Stories-With-Data-2022/files/10033000/Walkthrough.of.Data.Visualization.Final.Draft.pdf)
+
 
 ## Here are some of the Sample Visualizations from the Story:
 
