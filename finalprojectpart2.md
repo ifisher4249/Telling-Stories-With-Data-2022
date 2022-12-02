@@ -1,6 +1,6 @@
 
 Link to Shorthand Here
-[Final Project Draft In Progress](/https://preview.shorthand.com/oukWQXX19mY5qOXk)
+[Final Project Draft In Progress](https://preview.shorthand.com/oukWQXX19mY5qOXk)
 
 ### Talkin Process
 
