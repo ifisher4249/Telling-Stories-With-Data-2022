@@ -24,3 +24,5 @@ Sample for Data visualization assignment 2: [Assignment 2 GDP to Debt Ratio Tren
 [Final Project Part 1](/finalprojectisaacfisher.md)
 
 [Final Project Part 2](/finalprojectpart2.md)
+
+[Final Project Part 3](/finalprojectpart3.md)
