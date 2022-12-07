@@ -19,7 +19,6 @@ Sample for Data visualization assignment 2: [Assignment 2 GDP to Debt Ratio Tren
 ### Critique By Redesign
 [Critique by Redesign](/critiquebydesign.md)
 
-### Visualizing With Clarity
 ### Final Project 
 [Final Project Part 1](/finalprojectisaacfisher.md)
 
